@@ -1,3 +1,4 @@
+//обучающая программа
 #include <stdio.h>
 
 int main()
